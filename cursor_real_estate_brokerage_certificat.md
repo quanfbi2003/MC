@@ -61,7 +61,7 @@ Tôi đã tìm đủ thông tin trong knowledge base. Dưới đây là đáp á
 | **40** | **C** | Đưa BĐS không đủ điều kiện lên sàn giao dịch |
 | **41** | **C** | Cao hơn |
 | **42** | **C** | Có thể bị xử phạt về hành vi lấn chiếm đất (đất công do Nhà nước quản lý) |
-| **43** | **C** | Toàn bộ BĐS có thể và sẵn sàng tham gia giao dịch tại một thời nào đó với một giá cả cụ thể |
+| **43** | **D** | Cả A, B và C đều sai |
 | **44** | **D** | Khả năng co giãn cung bất động sản kém |
 | **45** | **B** | Cầu bất động sản |
 | **46** | **B** | Có đủ điều kiện tham gia vào thị trường theo quy định của pháp luật đất đai |
@@ -79,8 +79,6 @@ Tôi đã tìm đủ thông tin trong knowledge base. Dưới đây là đáp á
 11-C 12-C 13-C 14-C 15-B 16-B 17-C 18-B 19-B 20-B
 21-B 22-B 23-C 24-C 25-C 26-C 27-C 28-B 29-C 30-C
 31-C 32-B 33-A 34-A 35-C 36-C 37-B 38-B 39-B 40-C
-41-C 42-C 43-C 44-D 45-B 46-B 47-C 48-C 49-D 50-D
+41-C 42-C 43-D 44-D 45-B 46-B 47-C 48-C 49-D 50-D
 ```
-
-**Lưu ý:** Câu 43 về "Cung BĐS" - trong knowledge base đáp án ghi "Cả A, B và C đều sai", tức chọn **D**. Tuy nhiên, nhìn vào đề thi, đáp án C mô tả đúng định nghĩa cung BĐS ("Toàn bộ BĐS có thể và sẵn sàng tham gia giao dịch tại một thời nào đó với một giá cả cụ thể"). Nếu đề thi có đáp án D là "Cả A, B và C đều sai" thì chọn **D** theo knowledge base. Nhưng nếu đáp án C trùng nội dung như trên thì chọn **C**. Bạn cần đối chiếu lại đáp án C trên đề thực tế.
 
